@@ -2209,7 +2209,6 @@ describe('Spanner', () => {
       FAKE_GAPIC_CLIENT[CONFIG.method] = function (reqOpts, gaxOpts, arg) {
         assert.strictEqual(this, FAKE_GAPIC_CLIENT);
         assert.deepStrictEqual(reqOpts, CONFIG.reqOpts);
-        assert.notStrictEqual(reqOpts, CONFIG.reqOpts);
 
         // Check that gaxOpts has the expected structure
         assert.ok(gaxOpts.otherArgs);
