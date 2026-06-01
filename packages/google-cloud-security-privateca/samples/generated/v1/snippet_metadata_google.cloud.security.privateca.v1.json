@@ -1,7 +1,7 @@
 {
   "clientLibrary": {
     "name": "nodejs-privateca",
-    "version": "7.0.1",
+    "version": "0.1.0",
     "language": "TYPESCRIPT",
     "apis": [
       {
@@ -122,7 +122,7 @@
       "segments": [
         {
           "start": 25,
-          "end": 85,
+          "end": 92,
           "type": "FULL"
         }
       ],
