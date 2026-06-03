@@ -1,7 +1,7 @@
 {
   "name": "@google-cloud/pubsub",
   "description": "Cloud Pub/Sub Client Library for Node.js",
-  "version": "5.3.0",
+  "version": "5.3.1",
   "license": "Apache-2.0",
   "author": "Google Inc.",
   "engines": {
@@ -45,8 +45,6 @@
     "compile-protos": "compileProtos src",
     "prepare": "npm run compile-protos && npm run compile",
     "pretest": "npm run compile",
-    "docs-test": "linkinator docs",
-    "predocs-test": "npm run docs",
     "benchwrapper": "node bin/benchwrapper.js",
     "prelint": "cd samples; npm link ../; npm install",
     "precompile": "gts clean"
@@ -96,7 +94,6 @@
     "jsdoc": "^4.0.4",
     "jsdoc-fresh": "^5.0.0",
     "jsdoc-region-tag": "^4.0.0",
-    "linkinator": "^6.1.2",
     "mocha": "^11.1.0",
     "mv": "^2.1.1",
     "ncp": "^2.0.0",
