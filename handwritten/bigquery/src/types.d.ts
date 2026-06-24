@@ -13,7 +13,7 @@
 // limitations under the License.
 
 /**
- * Discovery Revision: 20260605
+ * Discovery Revision: 20260612
  */
 
 /**
@@ -1798,7 +1798,7 @@ declare namespace bigquery {
      */
     containerMemory?: string;
     /**
-     * Optional. Maximum number of requests that a Python UDF container instance can handle concurrently. If absent or if `0`, a default concurrency is used.
+     * Optional. Maximum number of requests that a Python UDF instance can handle concurrently. If absent or if `0`, the default concurrency value is used. For more information, see [Configure container limits for Python UDFs](https://cloud.google.com/bigquery/docs/user-defined-functions-python#configure-container-limits).
      */
     containerRequestConcurrency?: string;
     /**
