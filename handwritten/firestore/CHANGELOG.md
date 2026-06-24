@@ -5,6 +5,13 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/firestore?activeTab=versions
 
+## [8.7.0](https://github.com/googleapis/google-cloud-node/compare/firestore-v8.6.0...firestore-v8.7.0) (2026-06-24)
+
+
+### Features
+
+* Update API sources and regenerate ([#8672](https://github.com/googleapis/google-cloud-node/issues/8672)) ([3391fd2](https://github.com/googleapis/google-cloud-node/commit/3391fd27d1c15e051293207a07c6db00e760d370))
+
 ## [8.6.0](https://github.com/googleapis/google-cloud-node/compare/firestore-v8.5.0...firestore-v8.6.0) (2026-05-11)
 
 
