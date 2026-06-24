@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.0](https://github.com/googleapis/google-cloud-node/compare/typeless-sample-bot-v3.1.2...typeless-sample-bot-v3.2.0) (2026-06-24)
+
+
+### Features
+
+* Update API sources and regenerate ([#8672](https://github.com/googleapis/google-cloud-node/issues/8672)) ([3391fd2](https://github.com/googleapis/google-cloud-node/commit/3391fd27d1c15e051293207a07c6db00e760d370))
+
 ## [3.1.2](https://github.com/googleapis/google-cloud-node/compare/typeless-sample-bot-v3.1.1...typeless-sample-bot-v3.1.2) (2026-05-01)
 
 
