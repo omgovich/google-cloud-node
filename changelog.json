@@ -5,6 +5,42 @@
       "changes": [
         {
           "type": "fix",
+          "sha": "292c68864ddc46f5a89319a9b756599749275e91",
+          "message": "Set application/json Content-Type for impersonated ADC requests",
+          "issues": [
+            "8419"
+          ],
+          "scope": "storage"
+        },
+        {
+          "type": "feat",
+          "sha": "43abc45c45fe8538694e9794a12ca700e0ae2d90",
+          "message": "Add deleteSourceObjects option to combine/compose method",
+          "issues": [
+            "8444"
+          ],
+          "scope": "storage"
+        },
+        {
+          "type": "fix",
+          "sha": "512ba79126605b416868db7c5f607d3083934eca",
+          "message": "Resolve Node compatibility crashes, security vulnerability, and stream hangs",
+          "issues": [
+            "8622"
+          ],
+          "scope": "storage"
+        }
+      ],
+      "version": "7.22.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/storage",
+      "id": "5f205444-f676-4e44-9be9-8ff9c27bee4e",
+      "createTime": "2026-06-26T14:32:47.682Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
           "sha": "368f18ecc361310e7bfb323ba0e7836186ea08d1",
           "message": "Correct repository URLs in core package.json files",
           "issues": [
@@ -81371,5 +81407,5 @@
       "createTime": "2023-01-28T04:18:24.718Z"
     }
   ],
-  "updateTime": "2026-06-25T19:00:36.034Z"
+  "updateTime": "2026-06-26T14:32:47.682Z"
 }

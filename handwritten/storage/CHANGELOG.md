@@ -5,6 +5,19 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/storage?activeTab=versions
 
+## [7.22.0](https://github.com/googleapis/google-cloud-node/compare/storage-v7.21.0...storage-v7.22.0) (2026-06-26)
+
+
+### Features
+
+* **storage:** Add deleteSourceObjects option to combine/compose method ([#8444](https://github.com/googleapis/google-cloud-node/issues/8444)) ([43abc45](https://github.com/googleapis/google-cloud-node/commit/43abc45c45fe8538694e9794a12ca700e0ae2d90))
+
+
+### Bug Fixes
+
+* **storage:** Resolve Node compatibility crashes, security vulnerability, and stream hangs ([#8622](https://github.com/googleapis/google-cloud-node/issues/8622)) ([512ba79](https://github.com/googleapis/google-cloud-node/commit/512ba79126605b416868db7c5f607d3083934eca))
+* **storage:** Set application/json Content-Type for impersonated ADC requests ([#8419](https://github.com/googleapis/google-cloud-node/issues/8419)) ([292c688](https://github.com/googleapis/google-cloud-node/commit/292c68864ddc46f5a89319a9b756599749275e91))
+
 ## [7.21.0](https://github.com/googleapis/google-cloud-node/compare/storage-v7.20.0...storage-v7.21.0) (2026-06-03)
 
 
