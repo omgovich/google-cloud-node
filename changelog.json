@@ -5,6 +5,24 @@
       "changes": [
         {
           "type": "fix",
+          "sha": "3ec901e2cb45859adfbe914bc0385e6cdf2f2e9a",
+          "message": "Remove vulnerable dependency `uuid`",
+          "issues": [
+            "8120"
+          ],
+          "scope": "deps"
+        }
+      ],
+      "version": "3.0.7",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/error-reporting",
+      "id": "86afc6bd-fa5d-4a52-9dfa-1e9d4c6635c3",
+      "createTime": "2026-06-26T14:32:47.233Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
           "sha": "368f18ecc361310e7bfb323ba0e7836186ea08d1",
           "message": "Correct repository URLs in core package.json files",
           "issues": [
@@ -81371,5 +81389,5 @@
       "createTime": "2023-01-28T04:18:24.718Z"
     }
   ],
-  "updateTime": "2026-06-25T19:00:36.034Z"
+  "updateTime": "2026-06-26T14:32:47.233Z"
 }
