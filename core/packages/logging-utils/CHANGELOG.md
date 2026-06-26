@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [1.1.5](https://github.com/googleapis/google-cloud-node/compare/google-logging-utils-v1.1.4...google-logging-utils-v1.1.5) (2026-06-26)
+
+
+### Bug Fixes
+
+* Correct repository URLs in core package.json files ([#8722](https://github.com/googleapis/google-cloud-node/issues/8722)) ([368f18e](https://github.com/googleapis/google-cloud-node/commit/368f18ecc361310e7bfb323ba0e7836186ea08d1))
+
 ## [1.1.4](https://github.com/googleapis/google-cloud-node/compare/google-logging-utils-v1.1.3...google-logging-utils-v1.1.4) (2026-05-11)
 
 
